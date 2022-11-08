@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DataShare-duo
 - 👀 I’m interested in Python ML 
 - 🌱 I’m currently learning go
-- 📫 How to reach me 408759067@qq.com
+- 📫 Please reach me 408759067@qq.com
 - https://blog.csdn.net/zhangtingduo
 - https://www.jianshu.com/u/0927f521bcd3
 - WeChat account：DataShare
