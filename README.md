@@ -2,11 +2,11 @@
 - 👀 I’m interested in Python ML            <对Python、机器学习比较感兴趣>
 - 📫 Please reach me 408759067@qq.com       <邮箱是 408759067@qq.com>
 - WeChat account：DataShare                  <微信公众号：DataShare>
-- https://datashare-duo.github.io/datashare/  <github博客>
+- https://datashare-duo.github.io/datashare-blog/  <github博客>
 
 <img src="微信公众号二维码.jpg" alt="微信公众号" width="315" height="349">
 
-共享资源库：https://github.com/DataShare-duo/datashare-blog
+共享资源库：https://github.com/DataShare-duo/datashare_data
 
 
 
