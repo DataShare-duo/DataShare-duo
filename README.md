@@ -6,7 +6,7 @@
 
 <img src="微信公众号二维码.jpg" alt="微信公众号" width="315" height="349">
 
-共享资源库：https://github.com/DataShare-duo/datashare_data
+共享资源库：https://github.com/DataShare-duo/datashare-blog
 
 
 
